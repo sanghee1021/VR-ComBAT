@@ -7,4 +7,4 @@ This repository is made for the VR-ComBAT (Virtual Reality Comprehensive Balance
 
 2. Read the READ ME FIRST text file in the folder before the first use of the VR-ComBAT application.
 
-Contact: Sanghee Moon (smoon2 at ithaca dot edu)
+Contact: Sanghee Moon (sanghee.moon at unh dot edu)
